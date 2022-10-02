@@ -1,8 +1,6 @@
 # Leaflet Maps with Google Sheets
 Customize Leaflet maps with a linked Google Sheets template or CSV files and GeoJSON data on GitHub
 
-![Preview](preview.jpg)
-
 ## Live links (replace with your own)
 - Leaflet Map https://hendriekasaputra.github.io/indragiri/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1Jj4Xnq0ABIzVpEKTIeMyij3ljFoAYgwupZQnH6ussBE/edit#gid=0
